@@ -36,8 +36,8 @@ The system supports **role-based access**, with dedicated user and admin dashboa
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/cyberqueue.git
-cd cyberqueue
+[git clone https://github.com/ShreyasK47/CyberQueue-Smart-Print-Queue-System.git
+cd CyberQueue-Smart-Print-Queue-System
 ````
 
 ### 2. Install Dependencies
